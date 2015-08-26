@@ -1,6 +1,5 @@
-
 ---
-title:  "My Portfolio Blog - update"
+title:  "My Portfolio Blog Udate"
 categories: web development
 image: feat-img.jpg
 ---
