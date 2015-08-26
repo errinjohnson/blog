@@ -1,11 +1,12 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
+title: Portfolio Blog
+email: errin.johnson@gmail.com
+description: Creating a simple portfolio blog; measure progress and connect the dots to improve my
+portfolio site.  
+baseurl: "/blog"
 url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+twitter_username:errinjohnson64 
+avatar: "https://pbs.twimg.com/profile_images/2160145196/2011wdanandnashvilleconference_183_400x400.JPG" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +20,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "errin johnson" # Set default author name
+      categories: "portfolio"
       layout: "post"
       comments: true
   -
