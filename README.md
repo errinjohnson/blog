@@ -1,3 +1,3 @@
-# confs-theme
+# Blog - Jekyll and gh-pages
 
-The theme files for the WebConfs blog.
+web development tools to create a blog.
