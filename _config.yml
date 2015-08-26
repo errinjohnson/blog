@@ -1,8 +1,7 @@
 # Site settings
 title: Portfolio Blog
 email: errin.johnson@gmail.com
-description: Creating a simple portfolio blog; measure progress and connect the dots to improve my
-portfolio site.  
+description: Creating a simple portfolio blog; measure progress and connect the dots to improve my portfolio site.  
 baseurl: "/blog"
 url: ""
 twitter_username:errinjohnson64 
